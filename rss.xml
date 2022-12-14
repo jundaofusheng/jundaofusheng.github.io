@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Hexo</title>
+        <title>专注于生物信息学</title>
         <link>http://example.com</link>
         <description></description>
-        <language>en</language>
+        <language>zh-CN</language>
         <pubDate>Mon, 12 Dec 2022 22:49:02 +0800</pubDate>
         <lastBuildDate>Mon, 12 Dec 2022 22:49:02 +0800</lastBuildDate>
         <item>
