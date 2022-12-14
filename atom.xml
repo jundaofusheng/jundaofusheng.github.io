@@ -3,7 +3,27 @@
     <id>http://example.com</id>
     <title>Hexo</title>
     <link href="http://example.com" />
-    <updated>2022-12-10T11:23:41.296Z</updated>
+    <updated>2022-12-12T14:49:02.419Z</updated>
+    <entry>
+        <id>http://example.com/2022/12/12/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/</id>
+        <title>统计学名词解释</title>
+        <link rel="alternate" href="http://example.com/2022/12/12/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/"/>
+        <content type="html">&lt;h2 id=&#34;运算符号&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#运算符号&#34;&gt;#&lt;/a&gt; 运算符号&lt;/h2&gt;
+&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s&#34;&gt;Writing&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=&#34;&gt;Server&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
+</content>
+        <updated>2022-12-12T14:49:02.419Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2022/12/10/hello-world/</id>
         <title>Hello World</title>
