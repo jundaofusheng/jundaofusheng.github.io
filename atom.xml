@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://jundaofusheng.github.com</id>
     <title>专注于生物信息学</title>
-    <link href="http://example.com" />
+    <link href="https://jundaofusheng.github.com" />
     <updated>2022-12-12T14:49:02.419Z</updated>
     <entry>
-        <id>http://example.com/2022/12/12/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/</id>
+        <id>https://jundaofusheng.github.com/2022/12/12/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/</id>
         <title>统计学名词解释</title>
-        <link rel="alternate" href="http://example.com/2022/12/12/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/"/>
+        <link rel="alternate" href="https://jundaofusheng.github.com/2022/12/12/%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%90%8D%E8%AF%8D%E8%A7%A3%E9%87%8A/"/>
         <content type="html">&lt;h2 id=&#34;运算符号&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#运算符号&#34;&gt;#&lt;/a&gt; 运算符号&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo new &lt;span class=&#34;string&#34;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
@@ -25,9 +25,9 @@
         <updated>2022-12-12T14:49:02.419Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2022/12/10/hello-world/</id>
+        <id>https://jundaofusheng.github.com/2022/12/10/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="http://example.com/2022/12/10/hello-world/"/>
+        <link rel="alternate" href="https://jundaofusheng.github.com/2022/12/10/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
